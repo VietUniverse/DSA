@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB\\2411945_LeDuyViet_Lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB5AB31-0FEA-4F06-9529-C637D42343E0}|Lab02_Bai1E\\Lab02_Bai1E.vcxproj|D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai1E\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB5AB31-0FEA-4F06-9529-C637D42343E0}|Lab02_Bai1E\\Lab02_Bai1E.vcxproj|solutionrelative:Lab02_Bai1E\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB5AB31-0FEA-4F06-9529-C637D42343E0}|Lab02_Bai1E\\Lab02_Bai1E.vcxproj|D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai1E\\ThuVien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB5AB31-0FEA-4F06-9529-C637D42343E0}|Lab02_Bai1E\\Lab02_Bai1E.vcxproj|solutionrelative:Lab02_Bai1E\\ThuVien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB5AB31-0FEA-4F06-9529-C637D42343E0}|Lab02_Bai1E\\Lab02_Bai1E.vcxproj|D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai1E\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB5AB31-0FEA-4F06-9529-C637D42343E0}|Lab02_Bai1E\\Lab02_Bai1E.vcxproj|solutionrelative:Lab02_Bai1E\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4BC739-E0C6-4188-BCE3-3C894704EA35}|Lab02_Bai2D\\Lab02_Bai2D.vcxproj|D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai2D\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A4BC739-E0C6-4188-BCE3-3C894704EA35}|Lab02_Bai2D\\Lab02_Bai2D.vcxproj|solutionrelative:Lab02_Bai2D\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A4BC739-E0C6-4188-BCE3-3C894704EA35}|Lab02_Bai2D\\Lab02_Bai2D.vcxproj|D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai2D\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A4BC739-E0C6-4188-BCE3-3C894704EA35}|Lab02_Bai2D\\Lab02_Bai2D.vcxproj|solutionrelative:Lab02_Bai2D\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai1E\\program.cpp",
+              "RelativeDocumentMoniker": "Lab02_Bai1E\\program.cpp",
+              "ToolTip": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai1E\\program.cpp",
+              "RelativeToolTip": "Lab02_Bai1E\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-18T05:12:29.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai2D\\program.cpp",
+              "RelativeDocumentMoniker": "Lab02_Bai2D\\program.cpp",
+              "ToolTip": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai2D\\program.cpp",
+              "RelativeToolTip": "Lab02_Bai2D\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-18T05:11:56.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu.h",
+              "DocumentMoniker": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai2D\\menu.h",
+              "RelativeDocumentMoniker": "Lab02_Bai2D\\menu.h",
+              "ToolTip": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai2D\\menu.h",
+              "RelativeToolTip": "Lab02_Bai2D\\menu.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-18T05:11:41.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.h",
+              "DocumentMoniker": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai1E\\menu.h",
+              "RelativeDocumentMoniker": "Lab02_Bai1E\\menu.h",
+              "ToolTip": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai1E\\menu.h",
+              "RelativeToolTip": "Lab02_Bai1E\\menu.h",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-18T05:10:44.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThuVien.h",
+              "DocumentMoniker": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai1E\\ThuVien.h",
+              "RelativeDocumentMoniker": "Lab02_Bai1E\\ThuVien.h",
+              "ToolTip": "D:\\LAB\\2411945_LeDuyViet_Lab02\\Lab02_Bai1E\\ThuVien.h",
+              "RelativeToolTip": "Lab02_Bai1E\\ThuVien.h",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-18T05:09:57.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
