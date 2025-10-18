@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2411945_LeDuyViet_Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E615EA-7DB4-4C41-B5FA-DAFF791E309D}|Bai1_E_cdt\\Bai1_E_cdt.vcxproj|D:\\2411945_LeDuyViet_Lab01\\Bai1_E_cdt\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03E615EA-7DB4-4C41-B5FA-DAFF791E309D}|Bai1_E_cdt\\Bai1_E_cdt.vcxproj|solutionrelative:Bai1_E_cdt\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AB9627-EB9A-400D-812C-5E369379E802}|Bai1_D_cdt\\Bai1_D_cdt.vcxproj|D:\\2411945_LeDuyViet_Lab01\\Bai1_D_cdt\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35AB9627-EB9A-400D-812C-5E369379E802}|Bai1_D_cdt\\Bai1_D_cdt.vcxproj|solutionrelative:Bai1_D_cdt\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\2411945_LeDuyViet_Lab01\\Bai1_E_cdt\\program.cpp",
+              "RelativeDocumentMoniker": "Bai1_E_cdt\\program.cpp",
+              "ToolTip": "D:\\2411945_LeDuyViet_Lab01\\Bai1_E_cdt\\program.cpp",
+              "RelativeToolTip": "Bai1_E_cdt\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T16:29:18.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\2411945_LeDuyViet_Lab01\\Bai1_D_cdt\\program.cpp",
+              "RelativeDocumentMoniker": "Bai1_D_cdt\\program.cpp",
+              "ToolTip": "D:\\2411945_LeDuyViet_Lab01\\Bai1_D_cdt\\program.cpp",
+              "RelativeToolTip": "Bai1_D_cdt\\program.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T16:29:09.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
