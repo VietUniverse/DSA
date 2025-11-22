@@ -1,0 +1,16 @@
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\bin\Debug\net7.0\A.txt
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\bin\Debug\net7.0\B.txt
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\bin\Debug\net7.0\Lab05_Bai1E_DaThuc.exe
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\bin\Debug\net7.0\Lab05_Bai1E_DaThuc.deps.json
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\bin\Debug\net7.0\Lab05_Bai1E_DaThuc.runtimeconfig.json
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\bin\Debug\net7.0\Lab05_Bai1E_DaThuc.dll
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\bin\Debug\net7.0\Lab05_Bai1E_DaThuc.pdb
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\obj\Debug\net7.0\Lab05_Bai1E_DaThuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\obj\Debug\net7.0\Lab05_Bai1E_DaThuc.AssemblyInfoInputs.cache
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\obj\Debug\net7.0\Lab05_Bai1E_DaThuc.AssemblyInfo.cs
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\obj\Debug\net7.0\Lab05_Bai1E_DaThuc.csproj.CoreCompileInputs.cache
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\obj\Debug\net7.0\Lab05_Bai1E_DaThuc.dll
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\obj\Debug\net7.0\refint\Lab05_Bai1E_DaThuc.dll
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\obj\Debug\net7.0\Lab05_Bai1E_DaThuc.pdb
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\obj\Debug\net7.0\Lab05_Bai1E_DaThuc.genruntimeconfig.cache
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\Lab05_Bai1E_DaThuc\obj\Debug\net7.0\ref\Lab05_Bai1E_DaThuc.dll

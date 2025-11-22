@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\QuanLyNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLyNhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\SinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\MySinglyLinkedList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MySinglyLinkedList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\NhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NhanVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\QuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien.cs",
+              "ToolTip": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\QuanLyNhanVien.cs",
+              "RelativeToolTip": "QuanLyNhanVien.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwNwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:46:40.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\SinhVien.cs",
+              "RelativeDocumentMoniker": "SinhVien.cs",
+              "ToolTip": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\SinhVien.cs",
+              "RelativeToolTip": "SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:46:54.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MySinglyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\MySinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "MySinglyLinkedList.cs",
+              "ToolTip": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\MySinglyLinkedList.cs",
+              "RelativeToolTip": "MySinglyLinkedList.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:45:48.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:43:08.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:46:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\NhanVien.cs",
+              "RelativeToolTip": "NhanVien.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:46:07.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\data.txt",
+              "RelativeDocumentMoniker": "data.txt",
+              "ToolTip": "C:\\Users\\leduy\\OneDrive\\M\u00E1y t\u00EDnh\\2411926_HuynhThiAnhThu_Lab04\\data.txt",
+              "RelativeToolTip": "data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-08T03:44:42.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

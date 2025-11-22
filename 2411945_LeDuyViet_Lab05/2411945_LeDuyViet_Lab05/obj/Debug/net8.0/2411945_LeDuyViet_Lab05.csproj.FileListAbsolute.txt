@@ -1,0 +1,16 @@
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\bin\Debug\net8.0\2411945_LeDuyViet_Lab05.exe
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\bin\Debug\net8.0\2411945_LeDuyViet_Lab05.deps.json
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\bin\Debug\net8.0\2411945_LeDuyViet_Lab05.runtimeconfig.json
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\bin\Debug\net8.0\2411945_LeDuyViet_Lab05.dll
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\bin\Debug\net8.0\2411945_LeDuyViet_Lab05.pdb
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\obj\Debug\net8.0\2411945_LeDuyViet_Lab05.GeneratedMSBuildEditorConfig.editorconfig
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\obj\Debug\net8.0\2411945_LeDuyViet_Lab05.AssemblyInfoInputs.cache
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\obj\Debug\net8.0\2411945_LeDuyViet_Lab05.AssemblyInfo.cs
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\obj\Debug\net8.0\2411945_LeDuyViet_Lab05.csproj.CoreCompileInputs.cache
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\obj\Debug\net8.0\2411945_LeDuyViet_Lab05.dll
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\obj\Debug\net8.0\refint\2411945_LeDuyViet_Lab05.dll
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\obj\Debug\net8.0\2411945_LeDuyViet_Lab05.pdb
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\obj\Debug\net8.0\2411945_LeDuyViet_Lab05.genruntimeconfig.cache
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\obj\Debug\net8.0\ref\2411945_LeDuyViet_Lab05.dll
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\bin\Debug\net8.0\A.txt
+D:\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\2411945_LeDuyViet_Lab05\bin\Debug\net8.0\B.txt

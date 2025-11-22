@@ -1,0 +1,7 @@
+﻿NV001|Nguyễn Văn A|Kỹ thuật|15/01/2022|8500000 
+NV002|Trần Thị B|Kinh doanh|03/05/2021|12000000 
+NV003|Lê Văn C|Kế toán|11/11/2023|7000000 
+NV004|Phạm Thị D|Kỹ thuật|20/08/2020|15000000 
+NV005|Hoàng Văn E|Kinh doanh|01/03/2022|11500000 
+NV006|Võ Thị F|Hành chính|30/07/2023|6800000 
+NV007|Đặng Văn G|Kỹ thuật|05/02/2019|20000000

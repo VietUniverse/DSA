@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2411926_HuynhThiAnhThu_Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|d:\\2411926_huynhthianhthu_lab04\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|solutionrelative:data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|d:\\2411926_huynhthianhthu_lab04\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|solutionrelative:quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|d:\\2411926_huynhthianhthu_lab04\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|d:\\2411926_huynhthianhthu_lab04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|d:\\2411926_huynhthianhthu_lab04\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|d:\\2411926_huynhthianhthu_lab04\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|d:\\2411926_huynhthianhthu_lab04\\mysinglylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EB0BA2F-CE5C-4181-982F-EC1529248FF9}|2411926_HuynhThiAnhThu_Lab04.csproj|solutionrelative:mysinglylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyNhanVien.cs",
+              "DocumentMoniker": "D:\\2411926_HuynhThiAnhThu_Lab04\\QuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien.cs",
+              "ToolTip": "D:\\2411926_HuynhThiAnhThu_Lab04\\QuanLyNhanVien.cs",
+              "RelativeToolTip": "QuanLyNhanVien.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwNwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:46:40.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\2411926_HuynhThiAnhThu_Lab04\\SinhVien.cs",
+              "RelativeDocumentMoniker": "SinhVien.cs",
+              "ToolTip": "D:\\2411926_HuynhThiAnhThu_Lab04\\SinhVien.cs",
+              "RelativeToolTip": "SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:46:54.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySinglyLinkedList.cs",
+              "DocumentMoniker": "D:\\2411926_HuynhThiAnhThu_Lab04\\MySinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "MySinglyLinkedList.cs",
+              "ToolTip": "D:\\2411926_HuynhThiAnhThu_Lab04\\MySinglyLinkedList.cs",
+              "RelativeToolTip": "MySinglyLinkedList.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:45:48.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2411926_HuynhThiAnhThu_Lab04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\2411926_HuynhThiAnhThu_Lab04\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:43:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\2411926_HuynhThiAnhThu_Lab04\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "D:\\2411926_HuynhThiAnhThu_Lab04\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:46:22.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\2411926_HuynhThiAnhThu_Lab04\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "D:\\2411926_HuynhThiAnhThu_Lab04\\NhanVien.cs",
+              "RelativeToolTip": "NhanVien.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:46:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "data.txt",
+              "DocumentMoniker": "D:\\2411926_HuynhThiAnhThu_Lab04\\data.txt",
+              "RelativeDocumentMoniker": "data.txt",
+              "ToolTip": "D:\\2411926_HuynhThiAnhThu_Lab04\\data.txt",
+              "RelativeToolTip": "data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-08T03:44:42.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

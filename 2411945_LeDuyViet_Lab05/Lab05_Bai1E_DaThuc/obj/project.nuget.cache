@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVisJtWU3v33xcDa0kUUwHNh9IjMwHGLh/IalHqdxO6+wmpy86d3TjqLgS9Qc4dsY5GN/0ivjhsfNK+cJrbP6w==",
+  "success": true,
+  "projectFilePath": "D:\\2411945_LeDuyViet_Lab05\\2411945_LeDuyViet_Lab05\\Lab05_Bai1E_DaThuc\\Lab05_Bai1E_DaThuc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC602\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\PC602\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\PC602\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\PC602\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
